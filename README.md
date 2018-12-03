@@ -1,1 +1,1 @@
-# cs50-project
+# Spatio-Temporal Data Visualization of Individual-Level Environmental Exposures
